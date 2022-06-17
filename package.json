@@ -1,0 +1,12 @@
+{
+  "name": "passwordgenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "randomPass": "node randomPass.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
