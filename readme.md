@@ -4,10 +4,7 @@
 
 To run script
 
-    `
     npm run randomPass
-    
-    `
 
 ## more info 
 
