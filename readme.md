@@ -1,5 +1,11 @@
 # randomPass is a simple random password generator using Node.js
 
+## prerequisites
+
+latest version of node installed in ur pc
+
+u can get it from [here](https://nodejs.org/en/)
+
 ## availble scripts
 
 To run script
