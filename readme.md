@@ -1,4 +1,4 @@
-# randomPass is a simple random password generator using Node.js
+# simple password generator using Node.js
 
 ## prerequisites
 
